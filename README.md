@@ -8,7 +8,7 @@ import me.exterminate.utils.IsIntegerUtil;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(IsIntegerUtil.isInteger(6969));
+        System.out.println(IsIntegerUtil.isInteger(6969)); //Returns true
     }
 }
 ```  
